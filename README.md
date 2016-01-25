@@ -5,6 +5,7 @@ RTC module for Jetson TK1
 
 This module is to give a battery backup RTC functionality to Jetson TK1.
 The module is designed to be placed on the J3A1 (2x25) expansion header of Jetson TK1 and is designed to be used with Santyago's Grinch Custom Kernel.
+Some more detailed is written [here](http://elinux.org/Jetson/RTC). 
 
 Aside from the RTC, the board is intended to give an accesss to MPL115A2 barometic sensor, but this sensor is NOT verified to work on the initial revision of the assembled board. (See "Attention" section)
 
