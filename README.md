@@ -7,7 +7,8 @@ This module is to give a battery backup RTC functionality to Jetson TK1.
 The module is designed to be placed on the J3A1 (2x25) expansion header of Jetson TK1 and is designed to be used with Santyago's Grinch Custom Kernel.
 The RTC fuctionality was verifid on the initial revision of the assembled board and was cofirmed to be working in the way written  [here](http://elinux.org/Jetson/RTC). 
 
-The board also has two Grove I2C connectors, however they are not yet tested.
+The board also has two Grove I2C connectors, intended to accomodate 3.3V I2C Grove modules, however they are not yet tested.
+For Grove system, please refere [here](http://www.seeedstudio.com/wiki/Grove_System)
 
 Aside from the RTC, the board is intended to give an accesss to MPL115A2 barometic sensor, but this sensor does not work on the initial revision of the assembled board. (See "Attention" section)
 
