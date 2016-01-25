@@ -11,7 +11,7 @@ Aside from the RTC, the board is intended to give an accesss to MPL115A2 baromet
 
 # Attribute
 
-The design of the circuit and the basic setup is based on Santyago's this [https://devtalk.nvidia.com/default/topic/769727/embedded-systems/-howto-battery-backup-rtc/] Hot-To.
+The design of the circuit and the basic setup is based on Santyago's [this](https://devtalk.nvidia.com/default/topic/769727/embedded-systems/-howto-battery-backup-rtc/) Hot-To.
 
 # Attention!
 
